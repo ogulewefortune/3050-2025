@@ -1,4 +1,4 @@
-import ocsf.client.*;
+import com.lloseng.ocsf.client.*;
 import java.util.Scanner;
 
 public class TestClient extends AbstractClient {

@@ -1,4 +1,4 @@
-import ocsf.server.*;
+import com.lloseng.ocsf.server.*;
 
 public class TestServer extends AbstractServer {
     public TestServer(int port) {
